@@ -2,7 +2,7 @@
 
 .navbar {
   padding: 2rem;
-  background-color: #f5f6f7;
+  background-color: #dec3f7;
 }
 
 .navbar-collapse {
@@ -27,12 +27,12 @@ h1 {
 
 .seccion-oscura {
   color: white;
-  background-color: #1b1b32;
+  background-color: #250047;
 }
 
 .seccion-clara {
   color: black;
-  background-color: white;
+  background-color: #e7d4f3;
 }
 
 .seccion-titulo {
@@ -69,7 +69,7 @@ h1 {
 /* Seccion Hero */
 
 .hero {
-  background-color: #f5f6f7;
+  background-color: #e7d4f3;
   min-height: 450px;
   text-align: center;
 }
@@ -87,6 +87,10 @@ h1 {
 .hero-principal h2 {
   font-size: 1.5rem;
   color: #615151;
+}
+
+.hero-inferior-imagen {
+  width: 450px;
 }
 
 /* Sobre mi */
